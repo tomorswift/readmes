@@ -3,7 +3,7 @@
 
 ## Project information
 
-**Provider team:** GPI
+**API Provider:** GPI team
 
 **Product owner:** smita.navaratna@swift.com
 
@@ -61,5 +61,6 @@ TBC - email file
  - [ ] API Lifecycle peer review completed 
  - [ ] Update API catalogue (TBC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDYxMjM4OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDk5Mzc3NzEsLTEyNDYxMjM4OTVdfQ
+==
 -->
