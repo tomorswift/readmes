@@ -35,7 +35,7 @@ TBC - json file exported from SH
 
 TBC - json file exported from VSCode
 
-**Unresolved issues log**
+**Unresolved issues**
 
  - 06/06/25
 	 - Request / response examples weren't provided. These will be provided with the next version.  
@@ -61,6 +61,6 @@ TBC - email file
  - [ ] API Lifecycle peer review completed 
  - [ ] Update API catalogue (TBC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTY4NDcxNywtMTg0OTkzNzc3MSwtMT
+eyJoaXN0b3J5IjpbMTE1NTAxMTQ3MywtMTg0OTkzNzc3MSwtMT
 I0NjEyMzg5NV19
 -->
