@@ -9,6 +9,13 @@
 
 **API designer(s):** dominique.forceville@swift.com
 
+**Project documentation:** 
+[SWIFT Go products Homepage - Business Requirements - Confluence](https://confluence.swift.com:8443/display/BR/SWIFT+Go+products+Homepage)
+
+**Links**
+
+ - SwaggerHub [swift-tracker-low-value-payments - SWIFT-API - Design](https://app.swaggerhub.com/apis/SWIFT-API/swift-tracker-low-value-payments) 
+ - Dev Portal | [Swift Go API - Swift Developer Portal](https://developer.swift.com/apis/swift-go-api) 
 
 ## Release notes  
 
@@ -17,16 +24,6 @@
  - v2.0.0 
    - Implemented feature X
    - Fixed the bug
-
-**Project documentation:** 
-[SWIFT Go products Homepage - Business Requirements - Confluence](https://confluence.swift.com:8443/display/BR/SWIFT+Go+products+Homepage)
-
-**Links**
-| Resource   | Link  |
-|------------|-------|
-| SwaggerHub | [swift-tracker-low-value-payments - SWIFT-API - Design](https://app.swaggerhub.com/apis/SWIFT-API/swift-tracker-low-value-payments) |
-| Dev Portal | [Swift Go API - Swift Developer Portal](https://developer.swift.com/apis/swift-go-api) |
-| API catalogue | TBC |
 
 ## Review information
 **Review comments**
@@ -64,6 +61,6 @@ TBC - email file
  - [ ] API Lifecycle peer review completed 
  - [ ] Update API catalogue (TBC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyMzg2MDEsLTE4NDk5Mzc3NzEsLT
-EyNDYxMjM4OTVdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTQ2ODgxNiwtMTg0OTkzNzc3MSwtMT
+I0NjEyMzg5NV19
 -->
