@@ -26,6 +26,7 @@
    - Fixed the bug
 
 ## Review information
+
 **Review comments**
 
 TBC - json file exported from SH
@@ -34,11 +35,10 @@ TBC - json file exported from SH
 
 TBC - json file exported from VSCode
 
-**Issues log**
-| Review date | Issue | Dispensation | Resolved date |
-|-------------|-------|--------------|---------------|
-| 06/06/25    | Request / response examples weren't provided | These will be provided with the next version. | 
-| 08/06/25    | 
+**Unresolved issues log**
+
+ - 06/06/25
+	 - Request / response examples weren't provided. These will be provided with the next version.  
 
 **Design review outcome customer email**
 
@@ -61,6 +61,6 @@ TBC - email file
  - [ ] API Lifecycle peer review completed 
  - [ ] Update API catalogue (TBC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTQ2ODgxNiwtMTg0OTkzNzc3MSwtMT
+eyJoaXN0b3J5IjpbMTEyOTY4NDcxNywtMTg0OTkzNzc3MSwtMT
 I0NjEyMzg5NV19
 -->
