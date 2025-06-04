@@ -10,11 +10,14 @@
 **API designer(s):** dominique.forceville@swift.com
 
 **Change log**
-| Version |Release note  |
-|---------|--------------|
-|v1.0.3   | Initial version |
-|v2.0.0   | Implemented features <br> Fixed bugs |
 
+Version - Release note  
+--
+ - v1.0.3 
+   - Initial version 
+ - v2.0.0 
+   - Implemented features
+   - Fixed bugs
 **Project documentation:** 
 [SWIFT Go products Homepage - Business Requirements - Confluence](https://confluence.swift.com:8443/display/BR/SWIFT+Go+products+Homepage)
 
@@ -61,6 +64,6 @@ TBC - email file
  - [ ] API Lifecycle peer review completed 
  - [ ] Update API catalogue (TBC)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5Mzc3NzEsLTEyNDYxMjM4OTVdfQ
-==
+eyJoaXN0b3J5IjpbMjExMzA5OTk0LC0xODQ5OTM3NzcxLC0xMj
+Q2MTIzODk1XX0=
 -->
